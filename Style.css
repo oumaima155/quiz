@@ -1,0 +1,48 @@
+body {
+
+    background-image: radial-gradient(circle, #AA4CE1, #02319E);
+}
+p{
+  font-size: 20px;
+}
+#div1{
+    width: 400px;
+    margin: 0 auto;
+    padding: 50px;
+    font-family:Georgia, serif;
+    font-size: 50px;
+
+}
+#div2{
+  width: 1910px;
+}
+.btn{
+  width: 950px;
+  padding: 50px;
+  background-color: #DFCCEA;
+  border-radius: 20px;
+
+}
+#div3{
+  width: 300px;
+  margin: 0 auto;
+}
+.btn:active{
+  background-color: grey;
+}
+#res{
+  width: 400px;
+  border-radius:50px ;
+  padding: 50px;
+  font-family:Georgia, serif;
+  font-size: 30px;
+  background-color: #DFCCEA;
+  box-shadow: 10px 10px #888888;
+  padding: 100px;
+  margin: auto;
+  margin-top: 100px;
+}
+#next{
+  width: 50px;
+  border-radius: 10px;
+}
