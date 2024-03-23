@@ -6,7 +6,8 @@ function alpha() {
     alert("Please input your name.");
     return false;
   } else if (!regex.test(nom)) {
-    alert("Please write your name. The first character should be capitalized.");
+    alert("Please write your name correctly. The first character should be capitalized, and the name should not contain any numbers.");
+
     return false;
   }else{
      alert("Hey " + nom + ", I hope you will enjoy here ^-^");
